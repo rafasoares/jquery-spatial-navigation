@@ -1,4 +1,4 @@
-jquery-spatial-navigation
+jQuery Spatial Navigation
 =========================
 
 Plugin to emulate Spatial Navigation using jQuery
