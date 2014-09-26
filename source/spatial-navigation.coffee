@@ -34,7 +34,7 @@ $ ->
 
 		return if direction not in ['up', 'down', 'left', 'right']
 
-		current = $ ':focus'
+		current = $ document.activeElement
 		return if not current?
 
 		opposite = switch direction
